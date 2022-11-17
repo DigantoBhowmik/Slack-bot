@@ -1,0 +1,10 @@
+C:\Users\CSL-P\source\repos\SendMessage\SendMessage\bin\Debug\SendMessage.exe.config
+C:\Users\CSL-P\source\repos\SendMessage\SendMessage\bin\Debug\SendMessage.exe
+C:\Users\CSL-P\source\repos\SendMessage\SendMessage\bin\Debug\SendMessage.pdb
+C:\Users\CSL-P\source\repos\SendMessage\SendMessage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CSL-P\source\repos\SendMessage\SendMessage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CSL-P\source\repos\SendMessage\SendMessage\obj\Debug\SendMessage.csproj.AssemblyReference.cache
+C:\Users\CSL-P\source\repos\SendMessage\SendMessage\obj\Debug\SendMessage.csproj.CoreCompileInputs.cache
+C:\Users\CSL-P\source\repos\SendMessage\SendMessage\obj\Debug\SendMessage.csproj.CopyComplete
+C:\Users\CSL-P\source\repos\SendMessage\SendMessage\obj\Debug\SendMessage.exe
+C:\Users\CSL-P\source\repos\SendMessage\SendMessage\obj\Debug\SendMessage.pdb
